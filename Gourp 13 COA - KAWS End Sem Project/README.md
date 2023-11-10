@@ -6,7 +6,9 @@ We have run the following benchmarks to evaluate the performance(IPC) using diff
 4. BFS
 5. NN
 6. 3MM
- 
+
+The inputs of some benchmarks are scaled down to reduce the execution time.
+
 <img>![Performance](https://github.com/anish-g22/COA-LAB/assets/97083033/b1f2c340-2d5e-46df-b31f-35726528d494)
 
 ## Table Statistics..
