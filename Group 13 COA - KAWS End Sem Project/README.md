@@ -11,6 +11,8 @@ The inputs of some benchmarks are scaled down to reduce the execution time.
 
 <img>![Performance](https://github.com/anish-g22/COA-LAB/assets/97083033/b1f2c340-2d5e-46df-b31f-35726528d494)
 
+<!--
+
 ## Table Statistics..
 
 **LRR Scheduler**
@@ -37,3 +39,5 @@ The inputs of some benchmarks are scaled down to reduce the execution time.
 | -------- | ------- | ------- | ------- | ------ | ------ | -------- |
 | **Without warp sharing** | 2420.56 | 2090.236 | 38.694 | 102.622 | 161.605 | 93.585 |
 | **With warp sharing** | 2398.17 | 2084.78 | 38.675 | 103.197 | 160.847 | 93.8401 |
+
+-->
